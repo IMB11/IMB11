@@ -3,13 +3,11 @@
 ### What am I working on?
 
 - I'm currently a full-time Software Engineer at [Modrinth.com](https://modrinth.com/) - the leading platform for Minecraft user-generated content.
-- I maintain around 10 Minecraft mod projects, which have been used over 45 million times across the world by players.
 - I'm also a student at [Lancaster University](https://lancaster.ac.uk), completing an MSci in Software Engineering.
 
 ### My favourite things:
 
 - [SkinShuffle](https://github.com/IMB11/SkinShuffle), a Minecraft mod that allows players to change, store and customise their skin in-game. Used by millions across the world including popular YouTube & Twitch creators!
-- [Loqui](https://github.com/The-Loqui-Project), a work in progress translation platform which puts the "crowd" back into crowdsourced translations.
 - [modrinth/code](https://github.com/Modrinth/code), the monorepo which contains all the code which powers [Modrinth](https://modrinth.com)
 
 ### Contact me:
