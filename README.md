@@ -7,10 +7,11 @@
 
 ### My favourite things:
 
-- [SkinShuffle](https://github.com/IMB11/SkinShuffle), a Minecraft mod that allows players to change, store and customise their skin in-game. Used by millions across the world including popular YouTube & Twitch creators!
 - [modrinth/code](https://github.com/Modrinth/code), the monorepo which contains all the code which powers [Modrinth](https://modrinth.com)
+- [SkinShuffle](https://github.com/IMB11/SkinShuffle), a Minecraft mod that allows players to change, store and customise their skin in-game. Used by millions across the world including popular YouTube & Twitch creators!
+- [Fabric Documentation](https://docs.fabricmc.net), I was an early contributor to the FabricMC's (a mod loader for minecraft) documentation, you might see a few guides written by me!
 
 ### Contact me:
 
 - Need support for a project of mine? [Join my Discord server here.](https://discord.imb11.dev/)
-- For business-related, fancy, formal inquiries, you should email me here: `contact {at} cal.engineer`
+- For business-related, *fancy*, formal 🧐 inquiries, you should email me here: `contact {at} cal.engineer`
