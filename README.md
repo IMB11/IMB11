@@ -3,7 +3,7 @@
 ### What am I working on?
 
 - I'm currently a full-time Software Engineer at [Modrinth.com](https://modrinth.com/) - the leading platform for Minecraft user-generated content.
-- I'm also a student at [Lancaster University](https://lancaster.ac.uk), completing an MSci in Software Engineering.
+- I'm also a student at [Lancaster University](https://lancaster.ac.uk), completing an BSc in Software Engineering.
 
 ### My favourite things:
 
