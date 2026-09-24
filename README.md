@@ -14,4 +14,4 @@
 ### Contact me:
 
 - Need support for a project of mine? [Join my Discord server here.](https://discord.imb11.dev/)
-- For business-related, *fancy*, formal 🧐 inquiries, you should email me here: `contact {at} cal.engineer`
+- For business-related inquiries, you should email me here: `contact {at} cal.engineer`
