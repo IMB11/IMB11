@@ -1,6 +1,6 @@
 # End-User License Agreement (EULA)
 
-**IMPORTANT – PLEASE READ CAREFULLY:** This End-User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity), hereinafter referred to as "You" or "Licensee," and **Calum H. (IMB11)**, hereinafter referred to as "Licensor," for the Minecraft software modification(s) ("mods") and any associated files, data, and documentation, hereinafter referred to as the "Software."
+**IMPORTANT PLEASE READ CAREFULLY:** This End-User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity), hereinafter referred to as "You" or "Licensee," and **Calum H. (IMB11)**, hereinafter referred to as "Licensor," for the Minecraft software modification(s) ("mods") and any associated files, data, and documentation, hereinafter referred to as the "Software."
 
 By installing, copying, or otherwise using the Software, you agree to be bound by the terms of this EULA. If you do not agree to the terms of this EULA, do not install or use the Software.
 
